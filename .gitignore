@@ -1,0 +1,43 @@
+#################################
+# Unreal Engine Generated Files #
+#################################
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+
+#################################
+# Visual Studio Generated Files #
+#################################
+# Cache Directory
+.vs
+# User Specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# CPP Cache Files
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+# Solution Files
+*.sln
+# VSCode Cache Directory
+.vscode
+# VSCode History Files
+**/.history
+.idea/
+Plugins/Developer/RiderLink
+
+Content/Maps/DeadCity_Demo01_BuiltData.uasset
+Content/Maps/Map_SpringOak_BuiltData.uasset
+Content/DeadCity/Maps/DeadCity_Overview01_BuiltData.uasset
+
+# Plugin specific ignores
+Plugins/*/*/Binaries/
+Plugins/*/*/Intermediate/
